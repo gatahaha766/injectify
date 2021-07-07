@@ -80,7 +80,7 @@
     "react-json-view": "^1.16.1",
     "react-linkify": "^0.2.2",
     "react-measure": "^2.0.2",
-    "react-monaco-editor": "^0.14.1",
+    "react-monaco-editor": "^0.43.0",
     "react-redux": "^5.0.7",
     "react-rnd": "^7.4.0",
     "react-router-dom": "^4.2.2",
