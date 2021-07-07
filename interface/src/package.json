@@ -50,7 +50,7 @@
     ]
   },
   "dependencies": {
-    "@devexpress/dx-react-core": "^1.1.1",
+    "@devexpress/dx-react-core": "^1.11.2",
     "@devexpress/dx-react-grid": "^1.1.1",
     "@devexpress/dx-react-grid-material-ui": "^1.1.1",
     "autosuggest-highlight": "^3.1.1",
