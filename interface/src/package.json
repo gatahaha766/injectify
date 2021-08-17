@@ -57,7 +57,7 @@
     "babel-inline-import-loader": "^0.0.5",
     "babel-plugin-inline-import": "^2.0.6",
     "codemirror": "^5.36.0",
-    "copy-webpack-plugin": "^4.5.1",
+    "copy-webpack-plugin": "^5.0.0",
     "history": "^4.7.2",
     "immutability-helper": "^2.6.6",
     "lodash": "^4.17.5",
@@ -92,7 +92,7 @@
     "socket.io-client": "^2.0.4",
     "source-map-loader": "^0.2.3",
     "tapable": "^1.0.0-beta.5",
-    "uglifyjs-webpack-plugin": "^1.2.4"
+    "uglifyjs-webpack-plugin": "^2.0.0"
   },
   "private": false
 }
