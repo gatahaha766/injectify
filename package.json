@@ -62,7 +62,7 @@
     "fs-extra": "^6.0.0",
     "geoip-lite": "^1.2.1",
     "graphql": "^0.13.2",
-    "html-minifier": "^3.5.9",
+    "html-minifier": "^4.0.0",
     "js-beautify": "^1.7.5",
     "js-obfuscator": "^0.1.2",
     "limiter": "^1.1.2",
