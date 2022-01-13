@@ -75,7 +75,7 @@
     "ps-node": "^0.1.6",
     "request": "^2.83.0",
     "run-script-os": "^1.0.3",
-    "shelljs": "^0.8.1",
+    "shelljs": "^0.8.5",
     "socket.io": "^2.0.4",
     "twemoji": "^2.5.0",
     "typeof": "^1.0.0",
