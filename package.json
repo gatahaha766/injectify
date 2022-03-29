@@ -63,7 +63,7 @@
     "geoip-lite": "^1.2.1",
     "graphql": "^0.13.2",
     "html-minifier": "^3.5.9",
-    "js-beautify": "^1.7.5",
+    "js-beautify": "^1.14.1",
     "js-obfuscator": "^0.1.2",
     "limiter": "^1.1.2",
     "localtunnel": "^1.8.3",
