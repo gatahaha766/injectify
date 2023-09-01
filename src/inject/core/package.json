@@ -8,7 +8,9 @@
     "build": "cross-env NODE_ENV=production webpack --progress --colors --config ./webpack/production.config.js && cross-env NODE_ENV=production webpack --progress --colors --config ./webpack/debug.config.js",
     "build:silent": "cross-env NODE_ENV=production webpack --colors --config ./webpack/production.config.js && cross-env NODE_ENV=production webpack --colors --config ./webpack/debug.config.js",
     "install:all": "yarn-recursive --cmd install",
-    "dev": "yarn run watch"
+    "dev": "yarn run watch",
+    "prepare": "yarn run snyk-protect",
+    "snyk-protect": "snyk-protect"
   },
   "repository": "https://github.com/samdenty99/injectify",
   "author": "samdenty99",
@@ -37,6 +39,8 @@
     "uglifyjs-webpack-plugin": "^1.2.4",
     "webpack": "^4.2.0",
     "webpack-cli": "^2.0.13",
-    "yarn-recursive": "^1.0.5"
-  }
+    "yarn-recursive": "^1.0.5",
+    "@snyk/protect": "latest"
+  },
+  "snyk": true
 }
