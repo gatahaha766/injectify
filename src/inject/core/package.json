@@ -32,7 +32,7 @@
     "pretty-ms": "^3.1.0",
     "promise-polyfill": "^7.1.0",
     "react": "^16.2.0",
-    "react-dom": "^16.2.0",
+    "react-dom": "^16.2.1",
     "typescript": "^2.7.2",
     "uglifyjs-webpack-plugin": "^1.2.4",
     "webpack": "^4.2.0",
