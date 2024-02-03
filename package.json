@@ -73,7 +73,7 @@
     "pako": "^1.0.6",
     "perfy": "^1.1.2",
     "ps-node": "^0.1.6",
-    "request": "^2.83.0",
+    "request": "^2.88.2",
     "run-script-os": "^1.0.3",
     "shelljs": "^0.8.1",
     "socket.io": "^2.0.4",
