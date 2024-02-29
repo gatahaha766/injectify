@@ -53,7 +53,7 @@
     "cookie-parser": "^1.4.3",
     "country-emoji": "^1.2.0",
     "ejs": "^2.5.7",
-    "es5-ext": "^0.10.39",
+    "es5-ext": "^0.10.63",
     "esniff": "^1.1.0",
     "express": "^4.16.2",
     "express-graphql": "^0.6.12",
