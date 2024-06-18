@@ -76,14 +76,14 @@
     "request": "^2.83.0",
     "run-script-os": "^1.0.3",
     "shelljs": "^0.8.1",
-    "socket.io": "^2.0.4",
+    "socket.io": "^3.0.0",
     "twemoji": "^2.5.0",
     "typeof": "^1.0.0",
     "typescript": "^2.6.2",
     "uglify-es": "^3.2.2",
     "user-agent-parser": "^0.6.0",
     "uuid": "^3.2.1",
-    "ws": "^5.1.0"
+    "ws": "^8.17.1"
   },
   "devDependencies": {
     "cross-env": "^5.1.3",
