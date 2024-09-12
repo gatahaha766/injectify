@@ -55,7 +55,7 @@
     "ejs": "^2.5.7",
     "es5-ext": "^0.10.39",
     "esniff": "^1.1.0",
-    "express": "^4.16.2",
+    "express": "^4.21.0",
     "express-graphql": "^0.6.12",
     "express-prettify": "0.0.10",
     "express-rate-limit": "^2.11.0",
